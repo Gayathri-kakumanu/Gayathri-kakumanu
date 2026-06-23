@@ -91,6 +91,12 @@ Email: gayathrii.kakumanu@gmail.com
 
 ![GitHub stars](https://img.shields.io/github/stars/Gayathri-kakumanu?label=Stars)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gayathri-kakumanu&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gayathri-kakumanu&layout=compact&theme=radical)
+
+![Streak Stats](https://streak-stats.demolab.com?user=Gayathri-kakumanu&theme=radical)
+
 ### ✨ Motto
 
 "Learning, Building, and Growing One Project at a Time."
