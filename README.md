@@ -50,29 +50,12 @@ Machine learning model for predicting future sales trends using historical busin
 
 ---
 
-## 🎯 Current Goals
-
-- Solve LeetCode problems consistently
-- Improve DSA skills
-- Build industry-level AI/ML projects
-- Secure an AI/ML internship
-- Contribute to open-source projects
-
----
-
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gayathri-kakumanu&show_icons=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gayathri-kakumanu&layout=compact)
 
----
-
-## 🏆 Achievements
-
-- Building real-world AI & ML projects
-- Actively learning Data Structures & Algorithms
-- Exploring Generative AI applications
 
 ---
 
@@ -85,13 +68,6 @@ GitHub: [https://github.com/Gayathri-kakumanu](https://github.com/Gayathri-kakum
 Email: gayathrii.kakumanu@gmail.com
 
 ---
-![Profile Views](https://komarev.com/ghpvc/?username=Gayathri-kakumanu)
-
-![GitHub followers](https://img.shields.io/github/followers/Gayathru-kakumanu?label=Followers)
-
-![GitHub stars](https://img.shields.io/github/stars/Gayathri-kakumanu?label=Stars)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gayathri-kakumanu&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gayathri-kakumanu&layout=compact&theme=radical)
 
