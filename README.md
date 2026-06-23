@@ -97,6 +97,10 @@ Email: gayathrii.kakumanu@gmail.com
 
 ![Streak Stats](https://streak-stats.demolab.com?user=Gayathri-kakumanu&theme=radical)
 
+## 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/Gayathri-kakumanu/Gayathri-kakumanu/output/github-contribution-grid-snake.svg)
+
 ### ✨ Motto
 
 "Learning, Building, and Growing One Project at a Time."
