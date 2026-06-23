@@ -85,9 +85,11 @@ GitHub: [https://github.com/Gayathri-kakumanu](https://github.com/Gayathri-kakum
 Email: gayathrii.kakumanu@gmail.com
 
 ---
-## 🏆 GitHub Trophies
+![Profile Views](https://komarev.com/ghpvc/?username=Gayathri-kakumanu)
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=Gayathri-kakumanu&theme=onedark)
+![GitHub followers](https://img.shields.io/github/followers/Gayathru-kakumanu?label=Followers)
+
+![GitHub stars](https://img.shields.io/github/stars/Gayathri-kakumanu?label=Stars)
 
 ### ✨ Motto
 
