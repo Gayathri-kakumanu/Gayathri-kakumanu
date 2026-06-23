@@ -17,7 +17,6 @@
 ### Programming Languages
 - Python
 - C
-- Java
 - SQL
 
 ### AI & Data Science
